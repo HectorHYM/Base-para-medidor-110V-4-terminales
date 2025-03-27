@@ -1,3 +1,7 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.tgz filter=lfs diff=lfs merge=lfs -text
+Assets/models/*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/textures/**/*.png filter=lfs diff=lfs merge=lfs -text
+Packages/*.tgz filter=lfs diff=lfs merge=lfs -text
+Assets/*.apk filter=lfs diff=lfs merge=lfs -text
