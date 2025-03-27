@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftMordaza
+  - RightMordaza
+  - terminalLD
+  - terminalRD
+  - terminalLU
+  - terminalRU
+  - piezaMLD1
+  - piezaMLU1
+  - piezaMRD1
+  - piezaMRU1
+  - terminal
+  - piezaM
+  - piezaM2
+  - piezaC
+  - tornillo
+  - tornilloB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
